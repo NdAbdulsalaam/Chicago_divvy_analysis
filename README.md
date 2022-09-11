@@ -1,4 +1,10 @@
 
+![Chicago-Divvy Icon](https://cdn.vox-cdn.com/thumbor/gxpEBcy4ZXpibFtudaVGR7RE2ok=/0x0:3872x2581/1200x800/filters:focal(1627x982:2245x1600)/cdn.vox-cdn.com/uploads/chorus_image/image/60438451/shutterstock_525161920.0.jpg)
+
+<h2 align='center'>How to Improve Chicago-Divvy's Future Success by Maximizing the Number of Annual Memberships</h2>
+
+## Updated: September 10, 2022
+
 <a id = "table-of-contents"></a>
 # Table of Contents
 - [Introduction](#intro)
