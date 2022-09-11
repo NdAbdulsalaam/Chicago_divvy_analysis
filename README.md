@@ -178,4 +178,9 @@ Chicago exprience hot weather conndition in the middle of the years and is usual
 - [Tutorialspoint.com](https://www.tutorialspoint.com/r/r_lists.htm)
 - [Statology.org](https://www.statology.org/remove-element-from-vector-r/)
 
+
+
+## Access on   
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/code/nurudeenabdulsalaam/google-capstone-chicago-divvy-analysis)
+
 [Back to the top!](#table-of-contents)
